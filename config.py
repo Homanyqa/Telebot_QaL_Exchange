@@ -1,5 +1,5 @@
 
-TOKEN = "6179386646:AAECpvzPKPCILR3W8spuBIndXEK1W7oRjDY"
+TOKEN = ""
 # bot = telebot.TeleBot(TOKEN)
 #
 keys = {
