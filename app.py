@@ -4,7 +4,7 @@ import json
 from config import keys, TOKEN
 from extensions import APIException, Curr_Exchange
 
-# TOKEN = "6179386646:AAECpvzPKPCILR3W8spuBIndXEK1W7oRjDY"
+# TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # keys = {
